@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Desktop/Proyectos/EjerciciosASM/TB_Alarma_isim_beh.exe" -prj "/home/ise/Desktop/Proyectos/EjerciciosASM/TB_Alarma_beh.prj" "work.TB_Alarma" 
